@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.886825d9.css",
-    "main.js": "/static/js/main.f4cac14f.js",
-    "static/js/453.423e320e.chunk.js": "/static/js/453.423e320e.chunk.js",
-    "static/media/HRUDHAY.jpg": "/static/media/HRUDHAY.590f79bab33fd5cb30c5.jpg",
-    "index.html": "/index.html",
-    "main.886825d9.css.map": "/static/css/main.886825d9.css.map",
-    "main.f4cac14f.js.map": "/static/js/main.f4cac14f.js.map",
-    "453.423e320e.chunk.js.map": "/static/js/453.423e320e.chunk.js.map"
+    "main.css": "/hrudhay/static/css/main.886825d9.css",
+    "main.js": "/hrudhay/static/js/main.0486efa2.js",
+    "static/js/453.423e320e.chunk.js": "/hrudhay/static/js/453.423e320e.chunk.js",
+    "static/media/HRUDHAY.jpg": "/hrudhay/static/media/HRUDHAY.590f79bab33fd5cb30c5.jpg",
+    "index.html": "/hrudhay/index.html",
+    "main.886825d9.css.map": "/hrudhay/static/css/main.886825d9.css.map",
+    "main.0486efa2.js.map": "/hrudhay/static/js/main.0486efa2.js.map",
+    "453.423e320e.chunk.js.map": "/hrudhay/static/js/453.423e320e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.886825d9.css",
-    "static/js/main.f4cac14f.js"
+    "static/js/main.0486efa2.js"
   ]
 }
