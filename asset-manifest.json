@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hrudhay/static/css/main.886825d9.css",
-    "main.js": "/hrudhay/static/js/main.0486efa2.js",
+    "main.css": "/hrudhay/static/css/main.815c73a1.css",
+    "main.js": "/hrudhay/static/js/main.23130a8a.js",
     "static/js/453.423e320e.chunk.js": "/hrudhay/static/js/453.423e320e.chunk.js",
     "static/media/HRUDHAY.jpg": "/hrudhay/static/media/HRUDHAY.590f79bab33fd5cb30c5.jpg",
     "index.html": "/hrudhay/index.html",
-    "main.886825d9.css.map": "/hrudhay/static/css/main.886825d9.css.map",
-    "main.0486efa2.js.map": "/hrudhay/static/js/main.0486efa2.js.map",
+    "main.815c73a1.css.map": "/hrudhay/static/css/main.815c73a1.css.map",
+    "main.23130a8a.js.map": "/hrudhay/static/js/main.23130a8a.js.map",
     "453.423e320e.chunk.js.map": "/hrudhay/static/js/453.423e320e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.886825d9.css",
-    "static/js/main.0486efa2.js"
+    "static/css/main.815c73a1.css",
+    "static/js/main.23130a8a.js"
   ]
 }
