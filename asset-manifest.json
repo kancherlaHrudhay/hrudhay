@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hrudhay/static/css/main.1261da9c.css",
+    "main.css": "/hrudhay/static/css/main.b1262569.css",
     "main.js": "/hrudhay/static/js/main.6ba74101.js",
     "static/js/453.423e320e.chunk.js": "/hrudhay/static/js/453.423e320e.chunk.js",
     "static/media/HRUDHAY.jpg": "/hrudhay/static/media/HRUDHAY.590f79bab33fd5cb30c5.jpg",
     "static/media/imagee.jpg": "/hrudhay/static/media/imagee.d8e344f060ec534827ae.jpg",
     "index.html": "/hrudhay/index.html",
-    "main.1261da9c.css.map": "/hrudhay/static/css/main.1261da9c.css.map",
+    "main.b1262569.css.map": "/hrudhay/static/css/main.b1262569.css.map",
     "main.6ba74101.js.map": "/hrudhay/static/js/main.6ba74101.js.map",
     "453.423e320e.chunk.js.map": "/hrudhay/static/js/453.423e320e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1261da9c.css",
+    "static/css/main.b1262569.css",
     "static/js/main.6ba74101.js"
   ]
 }
